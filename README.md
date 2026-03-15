@@ -41,8 +41,7 @@ Git, GitHub, VS Code, IntelliJ IDEA
 
 ## 🚀 What I’m learning
 
-- Core Java
-- Cloud basics (AWS / GCP)  
+- Core Java 
 - Advanced Spring Boot 
 
 ---
